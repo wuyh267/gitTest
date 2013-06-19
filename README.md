@@ -1,7 +1,7 @@
 gitHelp
 =======
 
-### 注册一个github账号 ###
+### 注册一个github账号 ###     
 
 打开github主页，注册一个账号。
 
@@ -22,5 +22,5 @@ gitHelp
 
 ### 发起一个pull request ###
 
-提交完成以后，我们需要把我们的修改合并到[gitHelp](https://github.com/WuBMHDTV/gitTest)中，打开你自己的gitHelp项目克隆，地址是 [https://github.com/XXXXXX/gitTest](https://github.com/XXXXXX/gitTest)，点击上的 **Pull Request** 按钮，然后填写一些提交的信息，完成
+提交完成以后，我们需要把我们的修改合并啊到[gitHelp](https://github.com/WuBMHDTV/gitTest)中，打开你自己的gitHelp项目克隆，地址是 [https://github.com/XXXXXX/gitTest](https://github.com/XXXXXX/gitTest)，点击上的 **Pull Request** 按钮，然后填写一些提交的信息，完成
 
